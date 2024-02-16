@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GetStartedApp"
+    "\\GetStartedApp",
+    "\\GetStartedApp\\ViewModels",
+    "\\GetStartedApp\\Views"
   ],
+  "SelectedNode": "\\GetStartedApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
