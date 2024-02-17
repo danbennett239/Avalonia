@@ -17,10 +17,12 @@ C:\Users\danie\.nuget\packages\avalonia.native\11.0.6\lib\net6.0\Avalonia.Native
 C:\Users\danie\.nuget\packages\avalonia\11.0.6\ref\net6.0\Avalonia.OpenGL.dll
 C:\Users\danie\.nuget\packages\avalonia.remote.protocol\11.0.6\lib\net6.0\Avalonia.Remote.Protocol.dll
 C:\Users\danie\.nuget\packages\avalonia.skia\11.0.6\lib\net6.0\Avalonia.Skia.dll
+C:\Users\danie\.nuget\packages\avalonia.svg.skia\11.0.0.13\lib\net6.0\Avalonia.Svg.Skia.dll
 C:\Users\danie\.nuget\packages\avalonia.themes.fluent\11.0.6\lib\net6.0\Avalonia.Themes.Fluent.dll
 C:\Users\danie\.nuget\packages\avalonia.themes.simple\11.0.6\lib\net6.0\Avalonia.Themes.Simple.dll
 C:\Users\danie\.nuget\packages\avalonia.win32\11.0.6\lib\net6.0\Avalonia.Win32.dll
 C:\Users\danie\.nuget\packages\avalonia.x11\11.0.6\lib\net6.0\Avalonia.X11.dll
+C:\Users\danie\.nuget\packages\excss\4.2.3\lib\net6.0\ExCSS.dll
 C:\Users\danie\.nuget\packages\harfbuzzsharp\7.3.0\lib\net6.0\HarfBuzzSharp.dll
 C:\Users\danie\.nuget\packages\microcom.runtime\0.11.0\lib\net5.0\MicroCom.Runtime.dll
 C:\Users\danie\.nuget\packages\microsoft.codeanalysis.csharp\3.8.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -35,7 +37,12 @@ C:\Users\danie\.nuget\packages\microsoft.netcore.app.ref\6.0.27\ref\net6.0\Micro
 C:\Users\danie\.nuget\packages\microsoft.win32.systemevents\6.0.0\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\danie\.nuget\packages\microsoft.netcore.app.ref\6.0.27\ref\net6.0\mscorlib.dll
 C:\Users\danie\.nuget\packages\microsoft.netcore.app.ref\6.0.27\ref\net6.0\netstandard.dll
+C:\Users\danie\.nuget\packages\shimskiasharp\1.0.0.13\lib\net6.0\ShimSkiaSharp.dll
 C:\Users\danie\.nuget\packages\skiasharp\2.88.6\lib\net6.0\SkiaSharp.dll
+C:\Users\danie\.nuget\packages\skiasharp.harfbuzz\2.88.6\lib\net6.0\SkiaSharp.HarfBuzz.dll
+C:\Users\danie\.nuget\packages\svg.custom\1.0.0.13\lib\net6.0\Svg.Custom.dll
+C:\Users\danie\.nuget\packages\svg.model\1.0.0.13\lib\net6.0\Svg.Model.dll
+C:\Users\danie\.nuget\packages\svg.skia\1.0.0.13\lib\net6.0\Svg.Skia.dll
 C:\Users\danie\.nuget\packages\microsoft.netcore.app.ref\6.0.27\ref\net6.0\System.AppContext.dll
 C:\Users\danie\.nuget\packages\microsoft.netcore.app.ref\6.0.27\ref\net6.0\System.Buffers.dll
 C:\Users\danie\.nuget\packages\microsoft.netcore.app.ref\6.0.27\ref\net6.0\System.Collections.Concurrent.dll
