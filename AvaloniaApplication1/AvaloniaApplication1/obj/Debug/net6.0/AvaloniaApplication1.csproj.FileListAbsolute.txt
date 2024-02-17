@@ -130,3 +130,10 @@ D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net6.0\Aval
 D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net6.0\AvaloniaApplication1.csproj.CopyComplete
 D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net6.0\AvaloniaApplication1.genruntimeconfig.cache
 D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net6.0\ref\AvaloniaApplication1.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\Avalonia.Svg.Skia.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\ExCSS.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\ShimSkiaSharp.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\SkiaSharp.HarfBuzz.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\Svg.Custom.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\Svg.Model.dll
+D:\Code\Avalonia\AvaloniaApplication1\AvaloniaApplication1\bin\Debug\net6.0\Svg.Skia.dll

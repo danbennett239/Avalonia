@@ -13,4 +13,6 @@ Global
 		{B8FEDB3A-6E9E-4F54-9B97-61F7D01F21C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8FEDB3A-6E9E-4F54-9B97-61F7D01F21C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
 EndGlobal
